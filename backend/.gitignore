@@ -1,0 +1,7 @@
+venv
+.env
+db.sqlite3
+core/core/__pycache__
+core/todo/__pycache__
+core/todo/migrations
+
